@@ -5,9 +5,8 @@ A Smart Parking Management system designed to efficiently allocate & manage park
 # Overview
 <br>
 This is a GUI based application built using Java Swing and applying object oriented concepts.
-<br> 
 
-<u>Key Features</u>
+# Key Features
 
 <li>Admin Register & Login System. An admin can register with their User name and set password and therefore, login to the app. </li>
 <li> Admin can Initialize number of Parking Slots.</li>

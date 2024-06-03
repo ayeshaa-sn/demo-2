@@ -9,7 +9,7 @@ This is a GUI based application built using Java Swing and applying object orien
 <u>
 Key Features
 </u>
-<ul>Admin Register & Login System. An admin can register with their User name and set password and therefore, login to the app. </ul>
+<li>Admin Register & Login System. An admin can register with their User name and set password and therefore, login to the app. </li>
 <ul> Admin can Initialize number of Parking Slots.</ul>
 <ul>A Dashboard showing the real time availability of parking slots & overall details.</ul>
 <ul>Admin can park/unpark vehicles in the parking lot.</ul>

@@ -5,6 +5,6 @@ A Smart Parking Management system designed to efficiently allocate & manage park
 # Overview
 <br>
 This is a GUI based application built using Java Swing and applying object oriented concepts.
-<br> </u>
+<br> <u>
 Key Features
 
